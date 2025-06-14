@@ -1,2 +1,2 @@
-# boot.dev
+# Bookbot
 Boot.dev course projects
